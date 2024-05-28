@@ -1,0 +1,7 @@
+README.md
+setup.py
+qgenrator.egg-info/PKG-INFO
+qgenrator.egg-info/SOURCES.txt
+qgenrator.egg-info/dependency_links.txt
+qgenrator.egg-info/requires.txt
+qgenrator.egg-info/top_level.txt
